@@ -1,2 +1,2 @@
-# Crush-the-zombies--1
-Murder the zombies!!!
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
